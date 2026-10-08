@@ -1,0 +1,18 @@
+# Packet Tracer files
+*.pkt
+*.pka
+*.pksz
+*.ptmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
